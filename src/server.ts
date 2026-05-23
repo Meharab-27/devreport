@@ -10,4 +10,4 @@ const main=()=>{
 })
 }
 
-main()
+main();
